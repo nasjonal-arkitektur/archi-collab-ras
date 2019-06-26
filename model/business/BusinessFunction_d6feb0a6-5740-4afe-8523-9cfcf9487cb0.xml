@@ -1,0 +1,26 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Control"
+    id="d6feb0a6-5740-4afe-8523-9cfcf9487cb0">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+  <properties
+      key="dct:type"
+      value="archi:business-function"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Legal Control"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+</archimate:BusinessFunction>

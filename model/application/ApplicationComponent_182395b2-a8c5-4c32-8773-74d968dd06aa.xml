@@ -1,0 +1,26 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AS Access Point (DC)"
+    id="182395b2-a8c5-4c32-8773-74d968dd06aa">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="AS Access Point (DC)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+</archimate:ApplicationComponent>

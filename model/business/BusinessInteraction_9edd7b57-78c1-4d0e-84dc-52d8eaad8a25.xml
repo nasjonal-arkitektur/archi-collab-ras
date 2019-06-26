@@ -1,0 +1,26 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence Request Exchange"
+    id="9edd7b57-78c1-4d0e-84dc-52d8eaad8a25">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+  <properties
+      key="dct:type"
+      value="archi:business-interaction"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Evidence Request Exchange"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+</archimate:BusinessInteraction>

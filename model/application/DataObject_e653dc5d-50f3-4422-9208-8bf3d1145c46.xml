@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence"
+    id="e653dc5d-50f3-4422-9208-8bf3d1145c46">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Evidence"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+</archimate:DataObject>

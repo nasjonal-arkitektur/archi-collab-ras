@@ -1,0 +1,28 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Definition:"
+    id="cb11581d-8a4a-42d2-b4c8-a98428982a24"
+    documentation="This category of capabilities provides the ability to define the service description. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Service Definition:"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This category of capabilities provides the ability to define the service description. "/>
+</archimate:Grouping>

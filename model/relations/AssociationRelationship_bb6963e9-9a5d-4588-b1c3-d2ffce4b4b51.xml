@@ -1,0 +1,33 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sealed using"
+    id="bb6963e9-9a5d-4588-b1c3-d2ffce4b4b51">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="sealed using"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_3845dc92-e5a2-4c12-9571-fbfb330cff7a.xml#3845dc92-e5a2-4c12-9571-fbfb330cff7a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_4506cb1e-cbf2-40dc-8e0e-892fb7de145e.xml#4506cb1e-cbf2-40dc-8e0e-892fb7de145e"/>
+</archimate:AssociationRelationship>

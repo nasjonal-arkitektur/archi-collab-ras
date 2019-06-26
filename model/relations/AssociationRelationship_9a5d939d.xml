@@ -1,0 +1,35 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is provided by"
+    id="9a5d939d"
+    documentation="A [Machine to Machine Interface] provides [Representations] of data.">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="is provided by"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A [Machine to Machine Interface] provides [Representations] of data."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_dac27926-1996-406b-b828-59c076479ac1.xml#dac27926-1996-406b-b828-59c076479ac1"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_374e924e.xml#374e924e"/>
+</archimate:AssociationRelationship>

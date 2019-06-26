@@ -1,0 +1,35 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="signs or agrees upon"
+    id="ff1c5bab"
+    documentation="An [Organisation] signs an [Interoperability Agreement]">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="signs or agrees upon"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="An [Organisation] signs an [Interoperability Agreement]"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_bd38f75f.xml#bd38f75f"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_ffa77b5f.xml#ffa77b5f"/>
+</archimate:AssociationRelationship>

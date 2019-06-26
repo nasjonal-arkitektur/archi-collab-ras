@@ -1,0 +1,28 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legacy System"
+    id="58e6238e-bb5b-4bd9-9632-99962f236424"
+    documentation="This ABB describes the legacy systems running in the Operational Systems Layer.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Legacy System"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This ABB describes the legacy systems running in the Operational Systems Layer."/>
+</archimate:Resource>

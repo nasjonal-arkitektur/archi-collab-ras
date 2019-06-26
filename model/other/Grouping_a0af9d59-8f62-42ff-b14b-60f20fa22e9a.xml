@@ -1,0 +1,28 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Clustering"
+    id="a0af9d59-8f62-42ff-b14b-60f20fa22e9a"
+    documentation=" This category of capabilities provides the ability to cluster services. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Service Clustering"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" This category of capabilities provides the ability to cluster services. "/>
+</archimate:Grouping>

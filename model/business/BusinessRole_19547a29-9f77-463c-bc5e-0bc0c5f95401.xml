@@ -1,0 +1,28 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Model Administrator"
+    id="19547a29-9f77-463c-bc5e-0bc0c5f95401"
+    documentation="Data Model Administrator: Responsible for data model version control and change control.">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Model Administrator"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Data Model Administrator: Responsible for data model version control and change control."/>
+</archimate:BusinessRole>

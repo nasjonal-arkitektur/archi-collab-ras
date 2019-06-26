@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIRA entryway"
+    id="3b4a6618-f73d-41f3-986f-ebd98e3ca436">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="b2177502-394d-4645-a25d-61c44e955a7c"
+      textAlignment="1"
+      content="EIRA Views yet to be imported">
+    <bounds
+        x="48"
+        y="60"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,26 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="25. Ability to interface with the Integration Layer and obtain events from the Integration Layer; ability to analyze this event information, both in real-time/near real-time, as well as stored (warehoused) events"
+    id="fac640ce-c206-4617-b4b5-f55ede2f063a">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="25. Ability to interface with the Integration Layer and obtain events from the Integration Layer; ability to analyze this event information, both in real-time/near real-time, as well as stored (warehoused) events"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Capability>

@@ -1,0 +1,28 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security and Privacy"
+    id="6b7187c2-ab93-4b5e-9103-57825a0aad38"
+    documentation="Capabilities that address the support of QoS, information protection, and security. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Security and Privacy"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Capabilities that address the support of QoS, information protection, and security. "/>
+</archimate:Grouping>

@@ -1,0 +1,19 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motivation"
+    id="f57ddb82-aa9a-470c-a59a-61d6807efebb"
+    type="motivation">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Motivation"/>
+  <properties
+      key="difi:name_en"
+      value="Motivation"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

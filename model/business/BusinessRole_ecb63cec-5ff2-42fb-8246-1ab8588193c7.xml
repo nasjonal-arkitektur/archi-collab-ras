@@ -1,0 +1,28 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Architect"
+    id="ecb63cec-5ff2-42fb-8246-1ab8588193c7"
+    documentation="Technical Architect: Senior technical engineer responsible for coordinating and integrating the IT infrastructure and the IT technology portfolio.">
+  <properties
+      key="difi:namespace"
+      value="dmbok2"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Technical Architect"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Technical Architect: Senior technical engineer responsible for coordinating and integrating the IT infrastructure and the IT technology portfolio."/>
+</archimate:BusinessRole>

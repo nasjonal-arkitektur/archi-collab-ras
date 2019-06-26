@@ -1,0 +1,28 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Access"
+    id="078699e5-2052-4484-985e-0180915f44c0"
+    documentation="his category of capabilities addresses the sharing of data and metadata across the layers of the SOA RA such as QoS attributes, attributes defining common rules to be used across the layers, etc. ">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Information Access"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="his category of capabilities addresses the sharing of data and metadata across the layers of the SOA RA such as QoS attributes, attributes defining common rules to be used across the layers, etc. "/>
+</archimate:Grouping>

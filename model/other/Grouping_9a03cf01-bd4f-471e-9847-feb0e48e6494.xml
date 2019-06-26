@@ -1,0 +1,28 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuration and Change Management"
+    id="9a03cf01-bd4f-471e-9847-feb0e48e6494"
+    documentation="This category of capabilities provides the ability to change solution configuration and descriptions.">
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Configuration and Change Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="This category of capabilities provides the ability to change solution configuration and descriptions."/>
+</archimate:Grouping>

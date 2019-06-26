@@ -1,0 +1,33 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="mandates"
+    id="6c95108b-3d7e-42c3-8c61-1bc4069ca548">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="mandates"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_083ad8d6.xml#083ad8d6"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_87f19d49-0d8e-4cba-b19d-78f76d7a19d4.xml#87f19d49-0d8e-4cba-b19d-78f76d7a19d4"/>
+</archimate:AssociationRelationship>
