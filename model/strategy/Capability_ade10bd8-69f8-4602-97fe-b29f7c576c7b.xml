@@ -7,11 +7,8 @@
       key="difi:namespace"
       value="dmbok2"/>
   <properties
-      key="dct:type"
-      value="archi:capability"/>
-  <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -28,4 +25,7 @@
   <properties
       key="drill down"
       value="4988432c-96a2-4dae-9676-8313dc1eb6b7"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
 </archimate:Capability>

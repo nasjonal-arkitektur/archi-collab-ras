@@ -563,6 +563,18 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-ffb8438c-83c6-11e9-27b3-44850074a0ae.xml#id-ffb8438c-83c6-11e9-27b3-44850074a0ae"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="79cd58f9-ff6f-4258-979c-67d5269259b3">
+    <bounds
+        x="60"
+        y="528"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_456f8b53-5bf2-474d-a568-a4bca1045b1e.xml#456f8b53-5bf2-474d-a568-a4bca1045b1e"/>
+  </children>
   <properties
       key="difi:language"
       value="no"/>

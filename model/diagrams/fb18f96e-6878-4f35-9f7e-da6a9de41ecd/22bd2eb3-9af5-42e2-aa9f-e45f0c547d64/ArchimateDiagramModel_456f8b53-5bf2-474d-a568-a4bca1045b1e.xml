@@ -55,8 +55,8 @@
           href="AggregationRelationship_15d461c9-5de1-47b4-899b-ffe18a68c7fd.xml#15d461c9-5de1-47b4-899b-ffe18a68c7fd"/>
     </sourceConnections>
     <bounds
-        x="12"
-        y="24"
+        x="60"
+        y="96"
         width="793"
         height="637"/>
     <children
@@ -581,6 +581,18 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-ffb8438c-83c6-11e9-27b3-44850074a0ae.xml#id-ffb8438c-83c6-11e9-27b3-44850074a0ae"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="a7e106f4-4b16-4a07-bf90-8279b102e5a7">
+    <bounds
+        x="60"
+        y="24"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_e9505149-b279-4c94-9785-f2cc0d6e666b.xml#e9505149-b279-4c94-9785-f2cc0d6e666b"/>
   </children>
   <properties
       key="difi:language"

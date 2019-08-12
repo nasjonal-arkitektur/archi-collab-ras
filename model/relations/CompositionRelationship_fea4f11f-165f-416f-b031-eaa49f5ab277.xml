@@ -4,11 +4,8 @@
     name="composition"
     id="fea4f11f-165f-416f-b031-eaa49f5ab277">
   <properties
-      key="dct:type"
-      value="archi:composition-relationship"/>
-  <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -24,6 +21,9 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:composition-relationship"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_a21dff94-057e-47da-a031-2aedf783e6b7.xml#a21dff94-057e-47da-a031-2aedf783e6b7"/>
