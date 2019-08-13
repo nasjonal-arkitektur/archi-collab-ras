@@ -1,0 +1,33 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="drives"
+    id="00c0f5e2-859d-491f-b67d-e3a3f39049e0">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="drives"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_87cb737b-341b-4c4b-989b-d49c53980f8b.xml#87cb737b-341b-4c4b-989b-d49c53980f8b"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_147d9e66-11d3-4001-8ada-6b316400c631.xml#147d9e66-11d3-4001-8ada-6b316400c631"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Management"
+    id="eefb9c6d-7825-4463-b8ef-86fdfaf266ed"
+    documentation="Ability to conduct systematic investigation into materials and sources in order to establish facts and reach conclusions that comprise a result.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Research Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to conduct systematic investigation into materials and sources in order to establish facts and reach conclusions that comprise a result."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

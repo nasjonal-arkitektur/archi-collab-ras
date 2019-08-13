@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bio-organism Management"
+    id="5be0783e-92ff-4b0c-ac9c-5917ca1a29ae"
+    documentation="Ability to identify, track, and set life quality standards for the population of non-human living things, including all categories of animals and plants that react to stimuli, consume natural resources to grow, thrive, and reproduce.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Bio-organism Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify, track, and set life quality standards for the population of non-human living things, including all categories of animals and plants that react to stimuli, consume natural resources to grow, thrive, and reproduce."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

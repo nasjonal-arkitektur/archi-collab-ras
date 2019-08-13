@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure Management"
+    id="5f7ea5cc-d2af-4287-90c0-86ea17ae7559"
+    documentation="Ability to define, design, maintain, describe, and administer a physical structure or facility, which may include power grids, communication lines, railways, roadways, bridges, tunnels, and pipelines or conduits for water, gas, and power.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Infrastructure Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, design, maintain, describe, and administer a physical structure or facility, which may include power grids, communication lines, railways, roadways, bridges, tunnels, and pipelines or conduits for water, gas, and power."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

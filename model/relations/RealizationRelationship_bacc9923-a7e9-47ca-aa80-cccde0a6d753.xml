@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="fullfills"
+    id="bacc9923-a7e9-47ca-aa80-cccde0a6d753">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="fullfills"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d087d483-765f-43fc-8b96-63bdbc55fc1a.xml#d087d483-765f-43fc-8b96-63bdbc55fc1a"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_5dbea946-54ae-46b4-a100-93326837baa0.xml#5dbea946-54ae-46b4-a100-93326837baa0"/>
+</archimate:RealizationRelationship>

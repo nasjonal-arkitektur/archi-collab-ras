@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dispute Management"
+    id="377a6fe7-52ab-4176-8404-a1cce96ae5e6"
+    documentation="Ability to create, track, and resolve an official argument or disagreement among interested parties, or provide a formal written petition for the redress of an injustice.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Dispute Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to create, track, and resolve an official argument or disagreement among interested parties, or provide a formal written petition for the redress of an injustice."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning Content Management"
+    id="b88c5140-007c-4303-93cd-3104571931db"
+    documentation="Ability to define, conceptualize, create, and convey structured content and knowledge in a consumable format that is associated with an educational curriculum, course, workshop, or seminar, delivered to achieve a level of skill or competency.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Learning Content Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, conceptualize, create, and convey structured content and knowledge in a consumable format that is associated with an educational curriculum, course, workshop, or seminar, delivered to achieve a level of skill or competency."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

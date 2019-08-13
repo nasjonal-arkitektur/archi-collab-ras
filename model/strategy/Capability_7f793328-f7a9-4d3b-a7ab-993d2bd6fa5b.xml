@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategy Management"
+    id="7f793328-f7a9-4d3b-a7ab-993d2bd6fa5b"
+    documentation="Ability to define and disseminate the pattern or plan that integrates an organization’s major goals, policies, and action sequences into a cohesive whole.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Strategy Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define and disseminate the pattern or plan that integrates an organization’s major goals, policies, and action sequences into a cohesive whole."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

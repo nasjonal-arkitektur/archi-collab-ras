@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="achievs"
+    id="a11fbc11-5667-4f89-81ad-8e9ec46a78a1">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="achievs"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_52f69032-d3f3-49aa-8cad-82a0180dffc4.xml#52f69032-d3f3-49aa-8cad-82a0180dffc4"/>
+  <target
+      xsi:type="archimate:Outcome"
+      href="Outcome_8fdc966e-9c3a-4137-af68-4298e4d15b38.xml#8fdc966e-9c3a-4137-af68-4298e4d15b38"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resource Management"
+    id="9000b736-4714-4a91-8d70-19bf12104006"
+    documentation="Ability to assess, mentor, compensate, terminate, and otherwise coordinate individuals who are or have been incorporated under a legal agreement that includes compensation and other benefits, on a temporary or permanent basis.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Human Resource Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to assess, mentor, compensate, terminate, and otherwise coordinate individuals who are or have been incorporated under a legal agreement that includes compensation and other benefits, on a temporary or permanent basis."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intellectual Property Management"
+    id="d637791e-6656-4d97-9995-fe23bf66a58f"
+    documentation="Ability to define, establish, validate, value, obtain, or dispose of inventions, patents, trademarks, trade secrets, copyrights, and know how as a basis for furthering the overall mission of the organization.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Intellectual Property Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, establish, validate, value, obtain, or dispose of inventions, patents, trademarks, trade secrets, copyrights, and know how as a basis for furthering the overall mission of the organization."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

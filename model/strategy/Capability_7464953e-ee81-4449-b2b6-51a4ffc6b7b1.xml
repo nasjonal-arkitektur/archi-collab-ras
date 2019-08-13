@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Management"
+    id="7464953e-ee81-4449-b2b6-51a4ffc6b7b1"
+    documentation="Ability to capture, organize, prioritize, route, interpret, disseminate, assign, and administer tasks, inbound requests, schedules, time, work events, and related decisions.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Work Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to capture, organize, prioritize, route, interpret, disseminate, assign, and administer tasks, inbound requests, schedules, time, work events, and related decisions."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

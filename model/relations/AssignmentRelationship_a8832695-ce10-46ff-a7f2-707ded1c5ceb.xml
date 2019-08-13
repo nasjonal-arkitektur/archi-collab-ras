@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="triggers"
+    id="a8832695-ce10-46ff-a7f2-707ded1c5ceb">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="triggers"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:assignment-relationship"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_849a0bf1-0080-46a9-bf9d-166d3bf4ed69.xml#849a0bf1-0080-46a9-bf9d-166d3bf4ed69"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d087d483-765f-43fc-8b96-63bdbc55fc1a.xml#d087d483-765f-43fc-8b96-63bdbc55fc1a"/>
+</archimate:AssignmentRelationship>

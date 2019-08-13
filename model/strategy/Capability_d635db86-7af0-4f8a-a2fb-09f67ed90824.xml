@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Management"
+    id="d635db86-7af0-4f8a-a2fb-09f67ed90824"
+    documentation="Ability to establish, administer, maintain, and comply with a course or principle of action adopted or proposed by a government party, business, or individual.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Policy Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to establish, administer, maintain, and comply with a course or principle of action adopted or proposed by a government party, business, or individual."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

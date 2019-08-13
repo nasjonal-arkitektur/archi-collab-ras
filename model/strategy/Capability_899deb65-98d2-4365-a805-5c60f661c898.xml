@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Constituent Management"
+    id="899deb65-98d2-4365-a805-5c60f661c898"
+    documentation="Ability to identify, engage with, collect information on, understand needs of, monitor, update, and validate the status of an individual or a legal entity relative to an organization’s sphere of responsibility.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Constituent Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify, engage with, collect information on, understand needs of, monitor, update, and validate the status of an individual or a legal entity relative to an organization’s sphere of responsibility."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

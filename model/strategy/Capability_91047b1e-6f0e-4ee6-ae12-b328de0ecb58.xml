@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trip Management"
+    id="91047b1e-6f0e-4ee6-ae12-b328de0ecb58"
+    documentation="Ability to plan, track, prepare for, depart, arrive, and adjust a journey between a starting point location and one or more targeted locations, until a final destination is reached.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Trip Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to plan, track, prepare for, depart, arrive, and adjust a journey between a starting point location and one or more targeted locations, until a final destination is reached."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

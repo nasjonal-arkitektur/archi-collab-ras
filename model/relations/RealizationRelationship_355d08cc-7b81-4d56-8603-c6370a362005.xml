@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is influenced by"
+    id="355d08cc-7b81-4d56-8603-c6370a362005">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="is influenced by"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_52f69032-d3f3-49aa-8cad-82a0180dffc4.xml#52f69032-d3f3-49aa-8cad-82a0180dffc4"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_adb29278-1656-4003-990c-4467917d8ae5.xml#adb29278-1656-4003-990c-4467917d8ae5"/>
+</archimate:RealizationRelationship>

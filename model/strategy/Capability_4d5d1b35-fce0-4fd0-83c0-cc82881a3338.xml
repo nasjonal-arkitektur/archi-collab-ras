@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Management"
+    id="4d5d1b35-fce0-4fd0-83c0-cc82881a3338"
+    documentation="Ability to plan, direct, monitor, organize, control, and report on a set of connected arcs and nodes that may be associated with infrastructure, assets, locations, routes, and other business objects.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Network Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to plan, direct, monitor, organize, control, and report on a set of connected arcs and nodes that may be associated with infrastructure, assets, locations, routes, and other business objects."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

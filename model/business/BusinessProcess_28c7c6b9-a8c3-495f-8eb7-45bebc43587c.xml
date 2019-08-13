@@ -1,0 +1,28 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Value Stream Stage"
+    id="28c7c6b9-a8c3-495f-8eb7-45bebc43587c"
+    documentation="A distinct, identifiable phase or step within a value stream that has a unique name,&#xD;&#xA;entrance criteria, exit criteria, and identifiable participating stakeholder(s).">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Value Stream Stage"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A distinct, identifiable phase or step within a value stream that has a unique name,&#xD;&#xA;entrance criteria, exit criteria, and identifiable participating stakeholder(s)."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-process"/>
+</archimate:BusinessProcess>

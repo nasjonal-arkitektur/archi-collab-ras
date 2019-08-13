@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Instrument Management"
+    id="03113dfd-1159-437b-bd6e-bcacb9a48e18"
+    documentation="Ability to administer, valuate, and report on a tradeable asset, such as stocks, bonds, bills of exchange, futures, options, evidence of ownership, and cash.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Financial Instrument Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to administer, valuate, and report on a tradeable asset, such as stocks, bonds, bills of exchange, futures, options, evidence of ownership, and cash."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Program Management"
+    id="98f939a5-970a-423b-88d4-bc4efb2a9b97"
+    documentation="Ability to organize, plan, direct, and communicate progress against one or a collection of temporary endeavors or projects undertaken to create a unique outcome, using the setting and achieving of milestones to deliver those outcomes within defined resources, time, quality, and scope constraints.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Program Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to organize, plan, direct, and communicate progress against one or a collection of temporary endeavors or projects undertaken to create a unique outcome, using the setting and achieving of milestones to deliver those outcomes within defined resources, time, quality, and scope constraints."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

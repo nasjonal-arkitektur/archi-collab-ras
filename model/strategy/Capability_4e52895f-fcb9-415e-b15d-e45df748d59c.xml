@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan Management"
+    id="4e52895f-fcb9-415e-b15d-e45df748d59c"
+    documentation="Ability to develop, communicate, and coordinate an articulated direction, related work items, and priorities to further business development, organizational priorities, and goals and objectives across organizational units and entities within or outside the organization.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Plan Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to develop, communicate, and coordinate an articulated direction, related work items, and priorities to further business development, organizational priorities, and goals and objectives across organizational units and entities within or outside the organization."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

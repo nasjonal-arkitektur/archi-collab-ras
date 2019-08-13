@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geographic Space Management"
+    id="03e1ec53-4750-463d-bce2-383df5ae5053"
+    documentation="Ability to demarcate, grade, sustain, and generally administer physical space comprised of land, air, or water, in order to provide for the wellbeing of, and enable or restrict access to, that space as needed to meet economic, environmental, security, health, recreational, and other needs that arise.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Geographic Space Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to demarcate, grade, sustain, and generally administer physical space comprised of land, air, or water, in order to provide for the wellbeing of, and enable or restrict access to, that space as needed to meet economic, environmental, security, health, recreational, and other needs that arise."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

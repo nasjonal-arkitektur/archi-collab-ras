@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message Management"
+    id="d71cbd1f-9e90-49ce-a893-04ad7cb6eda6"
+    documentation="Ability to define, craft, frame, vet, disseminate, and track a verbal, written, recorded, or digitally represented communication, including missives, notifications, alerts, and other internally or externally targeted communiqué about the organization's mission, products, plans, activities, and other focal points.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Message Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, craft, frame, vet, disseminate, and track a verbal, written, recorded, or digitally represented communication, including missives, notifications, alerts, and other internally or externally targeted communiqué about the organization's mission, products, plans, activities, and other focal points."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

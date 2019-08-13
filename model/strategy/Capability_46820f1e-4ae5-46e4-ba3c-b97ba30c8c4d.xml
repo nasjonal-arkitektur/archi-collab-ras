@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Management"
+    id="46820f1e-4ae5-46e4-ba3c-b97ba30c8c4d"
+    documentation="Ability to acquire, create, track, report on, and dispose of tangible or intangible property with intrinsic value, including software applications and computing hardware.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Asset Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to acquire, create, track, report on, and dispose of tangible or intangible property with intrinsic value, including software applications and computing hardware."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

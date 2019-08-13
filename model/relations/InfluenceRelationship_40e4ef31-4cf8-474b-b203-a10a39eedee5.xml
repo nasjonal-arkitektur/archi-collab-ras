@@ -1,0 +1,33 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="guides"
+    id="40e4ef31-4cf8-474b-b203-a10a39eedee5">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="guides"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:influence-relationship"/>
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_adb29278-1656-4003-990c-4467917d8ae5.xml#adb29278-1656-4003-990c-4467917d8ae5"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_5dbea946-54ae-46b4-a100-93326837baa0.xml#5dbea946-54ae-46b4-a100-93326837baa0"/>
+</archimate:InfluenceRelationship>

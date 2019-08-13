@@ -1,0 +1,33 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="impacts"
+    id="72c19921-73bf-4557-800a-d031b02c7404">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="impacts"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_147d9e66-11d3-4001-8ada-6b316400c631.xml#147d9e66-11d3-4001-8ada-6b316400c631"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d087d483-765f-43fc-8b96-63bdbc55fc1a.xml#d087d483-765f-43fc-8b96-63bdbc55fc1a"/>
+</archimate:AssociationRelationship>

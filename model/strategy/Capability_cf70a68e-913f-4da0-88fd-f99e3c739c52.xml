@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Management"
+    id="cf70a68e-913f-4da0-88fd-f99e3c739c52"
+    documentation="Ability to establish, analyze, and utilize a digital, analog, or physical conduit through which products, related services or communications are delivered or received, including the Internet, phone, delivery service, satellite, radio, or physical means.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Channel Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to establish, analyze, and utilize a digital, analog, or physical conduit through which products, related services or communications are delivered or received, including the Internet, phone, delivery service, satellite, radio, or physical means."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

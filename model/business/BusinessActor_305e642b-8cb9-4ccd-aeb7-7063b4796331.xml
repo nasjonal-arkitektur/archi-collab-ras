@@ -1,0 +1,28 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organization"
+    id="305e642b-8cb9-4ccd-aeb7-7063b4796331"
+    documentation="An organization is a social unit of people, systematically structured and managed to&#xD;&#xA;meet a need or to pursue collective goals on a continuing basis.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Organization"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="An organization is a social unit of people, systematically structured and managed to&#xD;&#xA;meet a need or to pursue collective goals on a continuing basis."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-actor"/>
+</archimate:BusinessActor>

@@ -1,0 +1,33 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="composition"
+    id="29e11c8e-2abb-4df0-b4f0-c02ed5144b12">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="composition"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:composition-relationship"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_9ea2dd3c-510c-4150-9152-9feb4c6a9b89.xml#9ea2dd3c-510c-4150-9152-9feb4c6a9b89"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_19cde59f-d748-421b-8441-837a9c8d8e75.xml#19cde59f-d748-421b-8441-837a9c8d8e75"/>
+</archimate:CompositionRelationship>

@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="License Management"
+    id="2ebe6dfa-3881-4a93-99eb-6c36f57bcaaa"
+    documentation="Ability to identify, analyze, track, and administer compliance with a certification of competence in a specified subject or area of expertise, awarded by duly recognized third party, as it applies to a legal entity, an inanimate object such as a conveyer or infrastructure, or an individual.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="License Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify, analyze, track, and administer compliance with a certification of competence in a specified subject or area of expertise, awarded by duly recognized third party, as it applies to a legal entity, an inanimate object such as a conveyer or infrastructure, or an individual."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

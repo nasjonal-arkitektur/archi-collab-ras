@@ -1,0 +1,33 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="experienced through"
+    id="435ddf17-4456-474e-9f38-289f1ca72daf">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="experienced through"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <source
+      xsi:type="archimate:Value"
+      href="Value_074a3d63-fcc1-4f35-9340-862fe59ba546.xml#074a3d63-fcc1-4f35-9340-862fe59ba546"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_28c7c6b9-a8c3-495f-8eb7-45bebc43587c.xml#28c7c6b9-a8c3-495f-8eb7-45bebc43587c"/>
+</archimate:AssociationRelationship>

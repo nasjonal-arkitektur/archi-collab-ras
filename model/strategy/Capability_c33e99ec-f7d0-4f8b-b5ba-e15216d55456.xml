@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident Management"
+    id="c33e99ec-f7d0-4f8b-b5ba-e15216d55456"
+    documentation="Ability to define, assign, assess, and track a substantive, serious, unexpected, and sometimes dangerous situation, occurrence, emergency, or potential breach of policy or legislation requiring swift action, involving operations, constituents, bio-organisms, or geographic space.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Incident Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, assign, assess, and track a substantive, serious, unexpected, and sometimes dangerous situation, occurrence, emergency, or potential breach of policy or legislation requiring swift action, involving operations, constituents, bio-organisms, or geographic space."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

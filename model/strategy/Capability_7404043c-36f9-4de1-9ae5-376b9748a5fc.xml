@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Management"
+    id="7404043c-36f9-4de1-9ae5-376b9748a5fc"
+    documentation="Ability to identify, engage and collaborate with, control, predict, process, organize, present, and analyze all information, documents, preferences, experiences, and history related to an individual or other legal entity that has, plans to have, or has had a legally binding agreement or other established relationship with an organization, with the intent to exchange monetary and/or non-monetary value in the provisioning of assets, delivery of services, or other means of providing support or assistance in the course of conducting private or governmental business.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Partner Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify, engage and collaborate with, control, predict, process, organize, present, and analyze all information, documents, preferences, experiences, and history related to an individual or other legal entity that has, plans to have, or has had a legally binding agreement or other established relationship with an organization, with the intent to exchange monetary and/or non-monetary value in the provisioning of assets, delivery of services, or other means of providing support or assistance in the course of conducting private or governmental business."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

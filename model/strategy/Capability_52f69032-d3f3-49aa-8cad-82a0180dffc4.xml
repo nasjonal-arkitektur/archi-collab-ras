@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capability"
+    id="52f69032-d3f3-49aa-8cad-82a0180dffc4"
+    documentation="A particular ability or capacity that a business may possess or exchange to achieve a&#xD;&#xA;specific purpose or outcome.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Capability"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A particular ability or capacity that a business may possess or exchange to achieve a&#xD;&#xA;specific purpose or outcome."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

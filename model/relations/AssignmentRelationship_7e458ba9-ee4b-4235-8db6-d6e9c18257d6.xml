@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="particates in"
+    id="7e458ba9-ee4b-4235-8db6-d6e9c18257d6">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="particates in"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:assignment-relationship"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_849a0bf1-0080-46a9-bf9d-166d3bf4ed69.xml#849a0bf1-0080-46a9-bf9d-166d3bf4ed69"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_28c7c6b9-a8c3-495f-8eb7-45bebc43587c.xml#28c7c6b9-a8c3-495f-8eb7-45bebc43587c"/>
+</archimate:AssignmentRelationship>

@@ -1,0 +1,28 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Unit"
+    id="87cb737b-341b-4c4b-989b-d49c53980f8b"
+    documentation="A logical element or segment of a company (such as accounting, production,&#xD;&#xA;marketing) representing a specific business function, and a definite place on the&#xD;&#xA;organizational chart, under the domain of a manager. Also called department, division,or functional area.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Business Unit"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A logical element or segment of a company (such as accounting, production,&#xD;&#xA;marketing) representing a specific business function, and a definite place on the&#xD;&#xA;organizational chart, under the domain of a manager. Also called department, division,or functional area."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-actor"/>
+</archimate:BusinessActor>

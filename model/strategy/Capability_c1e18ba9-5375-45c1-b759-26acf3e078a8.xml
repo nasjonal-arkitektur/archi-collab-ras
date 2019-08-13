@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Job Management"
+    id="c1e18ba9-5375-45c1-b759-26acf3e078a8"
+    documentation="Ability to identify, define, assign, and manage accountabilities whether remunerative or non-remunerative, assigned, specific, an accountable business duty, role, or function that can be executed by a human or nonhuman resource.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Job Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify, define, assign, and manage accountabilities whether remunerative or non-remunerative, assigned, specific, an accountable business duty, role, or function that can be executed by a human or nonhuman resource."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conveyor Management"
+    id="caa1d328-fa62-4883-9e9a-6feb72135e53"
+    documentation="The ability to design, procure, maintain, and dispose of any variety of an apparatus or assembly whether human or robotically piloted that has the capacity to transport people, animals, goods, assets, or other physical items, and includes but is not limited to trucks, carts, airplanes, automobiles, railroad trains, water-borne craft, and animal-pulled devices or animal-assemblies such as mule-trains.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Conveyor Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="The ability to design, procure, maintain, and dispose of any variety of an apparatus or assembly whether human or robotically piloted that has the capacity to transport people, animals, goods, assets, or other physical items, and includes but is not limited to trucks, carts, airplanes, automobiles, railroad trains, water-borne craft, and animal-pulled devices or animal-assemblies such as mule-trains."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

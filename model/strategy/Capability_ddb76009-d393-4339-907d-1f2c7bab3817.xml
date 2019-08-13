@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Health Condition Management"
+    id="ddb76009-d393-4339-907d-1f2c7bab3817"
+    documentation="Ability to acquire, adapt, store, and make available for use details about diseases, injuries, disorders, and non-pathological conditions such as malnutrition, pregnancy, or childbirth.">
+  <properties
+      key="difi:namespace"
+      value="bizbok75"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Health Condition Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to acquire, adapt, store, and make available for use details about diseases, injuries, disorders, and non-pathological conditions such as malnutrition, pregnancy, or childbirth."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>
