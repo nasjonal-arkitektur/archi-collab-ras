@@ -1,0 +1,68 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registerejer"
+    id="46baebaf-1d18-466e-9e93-57e6b58eea4f"
+    documentation="Any natural or legal person or public entity or group of such persons and/or bodies which offers the execution of public services.&#xA;&#xA;Based on IATE definition (definition of service producer, entry Economics, Taxation [Council])&#xA;http://iate.europa.eu/">
+  <properties
+      key="eira:id"
+      value="ABB174"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceProvider"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:unit_in_DG"/>
+  <properties
+      key="fda:id"
+      value="FDA-349"/>
+  <properties
+      key="fda:definition"/>
+  <properties
+      key="fda:beskrivelse"/>
+  <properties
+      key="fda:ejer"
+      value="8.1"/>
+  <properties
+      key="fda:version"
+      value="0.1"/>
+  <properties
+      key="fda:status"
+      value="Under udvikling"/>
+  <properties
+      key="fda:kilde"
+      value="Referencearkitektur - Deling af data og dokumenter"/>
+  <properties
+      key="fda:mærke"
+      value="Defineret"/>
+  <properties
+      key="fda:EIRA engelsk/dansk"
+      value="Public Service Provider/Offentlig service udbyder"/>
+  <properties
+      key="eira:reuse_status"
+      value="[Genbrugt | Ikke genbrugt]"/>
+  <properties
+      key="eira:spatial"
+      value="EU; Fælles-offentligt; Domæne; Lokal"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Registerejer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Any natural or legal person or public entity or group of such persons and/or bodies which offers the execution of public services.&#xA;&#xA;Based on IATE definition (definition of service producer, entry Economics, Taxation [Council])&#xA;http://iate.europa.eu/"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessRole>

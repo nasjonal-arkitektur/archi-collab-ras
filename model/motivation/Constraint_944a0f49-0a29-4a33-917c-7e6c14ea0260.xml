@@ -1,4 +1,29 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service-oriented architecture"
-    id="944a0f49-0a29-4a33-917c-7e6c14ea0260"/>
+    id="944a0f49-0a29-4a33-917c-7e6c14ea0260">
+  <properties
+      key="dct:type"
+      value="archi:constraint"/>
+  <properties
+      key="difi:namespace"
+      value="book:Architectural Patterns"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Service-oriented architecture"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:BibliographicResource"
+      value="Raj, Pethuru, Anupama Raman, and Harihara Subramanian. Architectural Patterns. Packt Publishing, 2017. https://my.safaribooksonline.com/book/software-engineering-and-development/9781787287495."/>
+</archimate:Constraint>

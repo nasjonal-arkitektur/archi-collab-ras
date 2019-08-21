@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Storage and Operations"
-    id="9567ade4-22f0-4dce-8b39-68e5a58d9a64"/>
+    id="9567ade4-22f0-4dce-8b39-68e5a58d9a64">
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Storage and Operations"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:ArchimateDiagramModel>

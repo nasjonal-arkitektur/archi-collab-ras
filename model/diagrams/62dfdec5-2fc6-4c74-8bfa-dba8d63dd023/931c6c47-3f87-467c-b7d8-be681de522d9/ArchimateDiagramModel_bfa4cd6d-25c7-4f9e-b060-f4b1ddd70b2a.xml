@@ -1734,4 +1734,16 @@
         xsi:type="archimate:DataObject"
         href="DataObject_e37bd0e0-e5bc-4d31-89a9-2cd2574794e2.xml#e37bd0e0-e5bc-4d31-89a9-2cd2574794e2"/>
   </children>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="TOOPRA graph"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

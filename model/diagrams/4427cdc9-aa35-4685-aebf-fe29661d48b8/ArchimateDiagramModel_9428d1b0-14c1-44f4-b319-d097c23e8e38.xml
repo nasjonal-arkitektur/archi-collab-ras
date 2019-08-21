@@ -55,4 +55,16 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_b80b7350-3ce7-43fa-97a6-5a10f4150a02.xml#b80b7350-3ce7-43fa-97a6-5a10f4150a02"/>
   </children>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="DMBOK2 entryway"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

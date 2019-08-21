@@ -1,4 +1,29 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data replication"
-    id="76709f33-34df-4fcb-962b-61e8f5037e1d"/>
+    id="76709f33-34df-4fcb-962b-61e8f5037e1d">
+  <properties
+      key="dct:type"
+      value="archi:constraint"/>
+  <properties
+      key="difi:namespace"
+      value="book:Architectural Patterns"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data replication"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:BibliographicResource"
+      value="Raj, Pethuru, Anupama Raman, and Harihara Subramanian. Architectural Patterns. Packt Publishing, 2017. https://my.safaribooksonline.com/book/software-engineering-and-development/9781787287495."/>
+</archimate:Constraint>

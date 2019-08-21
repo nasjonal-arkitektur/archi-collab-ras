@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Architectural Patterns"
-    id="e2f94c82-0b52-48f2-aa73-0f3eaa90bb94"/>
+    id="e2f94c82-0b52-48f2-aa73-0f3eaa90bb94">
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Architectural Patterns"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

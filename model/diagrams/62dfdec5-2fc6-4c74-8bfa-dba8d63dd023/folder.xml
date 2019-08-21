@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TOOPRA"
-    id="62dfdec5-2fc6-4c74-8bfa-dba8d63dd023"/>
+    id="62dfdec5-2fc6-4c74-8bfa-dba8d63dd023">
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="TOOPRA"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

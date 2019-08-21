@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Quality"
-    id="2dbe95db-a723-44d2-81e2-6440f355c01c"/>
+    id="2dbe95db-a723-44d2-81e2-6440f355c01c">
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Quality"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:ArchimateDiagramModel>

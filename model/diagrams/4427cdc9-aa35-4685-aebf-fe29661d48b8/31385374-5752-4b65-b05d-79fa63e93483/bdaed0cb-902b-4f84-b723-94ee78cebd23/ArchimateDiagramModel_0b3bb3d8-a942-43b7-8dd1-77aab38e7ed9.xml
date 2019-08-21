@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Modelling &amp; Design"
-    id="0b3bb3d8-a942-43b7-8dd1-77aab38e7ed9"/>
+    id="0b3bb3d8-a942-43b7-8dd1-77aab38e7ed9">
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Modelling &amp; Design"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:ArchimateDiagramModel>

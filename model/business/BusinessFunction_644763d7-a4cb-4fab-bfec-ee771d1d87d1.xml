@@ -1,0 +1,72 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrering"
+    id="644763d7-a4cb-4fab-bfec-ee771d1d87d1"
+    documentation="A particular ability or capacity that an organisation may possess or exchange to achieve a specific purpose or outcome.&#xA;Defining a business capability involves identifying and describing what needs to be done by the business in support of its overall mission. &#xA;Business capabilities provide an abstraction of the business reality in a way that helps to simplify conversations between interested stakeholders.&#xA;&#xA;Based on TOGAF definition and description of business capability.&#xA;https://www2.opengroup.org/ogsys/catalog/g161">
+  <properties
+      key="eira:id"
+      value="ABB12"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessCapability"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:owner"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="fda:id"
+      value="FDA-354"/>
+  <properties
+      key="fda:definition"/>
+  <properties
+      key="fda:beskrivelse"/>
+  <properties
+      key="fda:ejer"
+      value="8.1"/>
+  <properties
+      key="fda:version"
+      value="0.1"/>
+  <properties
+      key="fda:status"
+      value="Under udvikling"/>
+  <properties
+      key="fda:kilde"
+      value="Referencearkitektur - Deling af data og dokumenter"/>
+  <properties
+      key="fda:mærke"
+      value="Defineret"/>
+  <properties
+      key="fda:EIRA engelsk/dansk"/>
+  <properties
+      key="eira:reuse_status"
+      value="[Genbrugt | Ikke genbrugt]"/>
+  <properties
+      key="eira:spatial"
+      value="EU; Fælles-offentligt; Domæne; Lokal"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Registrering"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A particular ability or capacity that an organisation may possess or exchange to achieve a specific purpose or outcome.&#xA;Defining a business capability involves identifying and describing what needs to be done by the business in support of its overall mission. &#xA;Business capabilities provide an abstraction of the business reality in a way that helps to simplify conversations between interested stakeholders.&#xA;&#xA;Based on TOGAF definition and description of business capability.&#xA;https://www2.opengroup.org/ogsys/catalog/g161"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessFunction>

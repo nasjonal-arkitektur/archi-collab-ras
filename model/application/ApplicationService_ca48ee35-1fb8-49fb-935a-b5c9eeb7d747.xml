@@ -1,0 +1,75 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data service"
+    id="ca48ee35-1fb8-49fb-935a-b5c9eeb7d747"
+    documentation="Represents an explicitly defined shared application behavior.&#xA;&#xA;Based on ArchiMate v3&#xA;http://pubs.opengroup.org/architecture/archimate3-doc/chap09.html">
+  <properties
+      key="eira:id"
+      value="ABB187"/>
+  <properties
+      key="dct:type"
+      value="eira:ApplicationService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="fda:id"
+      value="FDA-372"/>
+  <properties
+      key="fda:definition"
+      value="Applikationsservice der giver adgang til en eller flere datasamlinger med den nødvendige beskyttelse. Kan evt. tilbyde aggregerede services, der samler data på tværs af flere samlinger og målretter dem til en given anvendelse."/>
+  <properties
+      key="fda:beskrivelse"/>
+  <properties
+      key="fda:ejer"
+      value="8.1"/>
+  <properties
+      key="fda:version"
+      value="0.1"/>
+  <properties
+      key="fda:status"
+      value="Under udvikling"/>
+  <properties
+      key="fda:kilde"
+      value="Referencearkitektur - Deling af data og dokumenter"/>
+  <properties
+      key="fda:mærke"
+      value="Defineret"/>
+  <properties
+      key="eira:reuse_status"
+      value="[Genbrugt | Ikke genbrugt]"/>
+  <properties
+      key="eira:spatial"
+      value="EU; Fælles-offentligt; Domæne; Lokal"/>
+  <properties
+      key="dct:references"/>
+  <properties
+      key="fda:EIRA engelsk/dansk"
+      value="Application Service/Applikationsservice"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data service"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Represents an explicitly defined shared application behavior.&#xA;&#xA;Based on ArchiMate v3&#xA;http://pubs.opengroup.org/architecture/archimate3-doc/chap09.html"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:ApplicationService>

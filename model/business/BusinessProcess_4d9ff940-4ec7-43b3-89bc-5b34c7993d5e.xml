@@ -1,0 +1,56 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forsendelse"
+    id="4d9ff940-4ec7-43b3-89bc-5b34c7993d5e">
+  <properties
+      key="fda:id"
+      value="FDA-370"/>
+  <properties
+      key="fda:definition"/>
+  <properties
+      key="fda:beskrivelse"/>
+  <properties
+      key="fda:ejer"
+      value="8.1"/>
+  <properties
+      key="fda:version"
+      value="0.1"/>
+  <properties
+      key="fda:status"
+      value="Under udvikling"/>
+  <properties
+      key="fda:kilde"
+      value="Referencearkitektur - Deling af data og dokumenter"/>
+  <properties
+      key="fda:mærke"
+      value="Defineret"/>
+  <properties
+      key="fda:EIRA engelsk/dansk"/>
+  <properties
+      key="eira:reuse_status"
+      value="[Genbrugt | Ikke genbrugt]"/>
+  <properties
+      key="eira:spatial"
+      value="EU; Fælles-offentligt; Domæne; Lokal"/>
+  <properties
+      key="dct:type"
+      value="archi:business-process"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Forsendelse"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessProcess>

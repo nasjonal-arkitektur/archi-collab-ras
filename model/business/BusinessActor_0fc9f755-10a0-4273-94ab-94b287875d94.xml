@@ -1,0 +1,65 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offentlig Administration"
+    id="0fc9f755-10a0-4273-94ab-94b287875d94"
+    documentation="A state, regional or local authority governed by public law or an association formed by one or several such authorities or a private entity mandated by at least one of those authorities or associations to provide public services, when acting under such a mandate.&#xA;&#xA;Source: eIDAS regulation&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG">
+  <properties
+      key="fda:id"
+      value="FDA-42"/>
+  <properties
+      key="eira:id"
+      value="ABB172"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicAdministration"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reuse_status"
+      value="[Genbrugt | Ikke genbrugt]"/>
+  <properties
+      key="eira:spatial"
+      value="EU; Fælles-offentligt; Domæne; Lokal"/>
+  <properties
+      key="fda:definition"/>
+  <properties
+      key="fda:beskrivelse"/>
+  <properties
+      key="fda:ejer"
+      value="xx"/>
+  <properties
+      key="fda:version"
+      value="0.1"/>
+  <properties
+      key="fda:status"
+      value="Kandidat"/>
+  <properties
+      key="fda:kilde"/>
+  <properties
+      key="fda:mærke"
+      value="Udledt"/>
+  <properties
+      key="fda:EIRA engelsk/dansk"
+      value="Public Administration/Offentlig administration"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Offentlig Administration"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A state, regional or local authority governed by public law or an association formed by one or several such authorities or a private entity mandated by at least one of those authorities or associations to provide public services, when acting under such a mandate.&#xA;&#xA;Source: eIDAS regulation&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessActor>

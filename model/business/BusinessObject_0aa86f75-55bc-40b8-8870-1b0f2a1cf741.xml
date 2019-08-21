@@ -1,0 +1,65 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Abonnement"
+    id="0aa86f75-55bc-40b8-8870-1b0f2a1cf741"
+    documentation="Represents the business facts, data, or opinions, in any medium or form, including textual, numerical, graphic, cartographic, narrative, or audio-visual forms that the capability exchanges with other capabilities to support the execution of value streams. Examples include information about public service consumers, products and services, policies and rules, reports and metrics.&#xA;&#xA;Based on TOGAF guide about business capabilities and TOGAF definition of information.&#xA;https://www2.opengroup.org/ogsys/catalog/g161&#xA;http://pubs.opengroup.org/architecture/togaf9-doc/arch/">
+  <properties
+      key="eira:id"
+      value="ABB13"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessInformation"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="fda:id"
+      value="FDA-364"/>
+  <properties
+      key="fda:definition"/>
+  <properties
+      key="fda:beskrivelse"/>
+  <properties
+      key="fda:ejer"
+      value="8.1"/>
+  <properties
+      key="fda:version"
+      value="0.1"/>
+  <properties
+      key="fda:status"
+      value="Under udvikling"/>
+  <properties
+      key="fda:kilde"
+      value="Referencearkitektur - Deling af data og dokumenter"/>
+  <properties
+      key="fda:mærke"
+      value="Defineret"/>
+  <properties
+      key="fda:EIRA engelsk/dansk"/>
+  <properties
+      key="eira:reuse_status"
+      value="[Genbrugt | Ikke genbrugt]"/>
+  <properties
+      key="eira:spatial"
+      value="EU; Fælles-offentligt; Domæne; Lokal"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Abonnement"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Represents the business facts, data, or opinions, in any medium or form, including textual, numerical, graphic, cartographic, narrative, or audio-visual forms that the capability exchanges with other capabilities to support the execution of value streams. Examples include information about public service consumers, products and services, policies and rules, reports and metrics.&#xA;&#xA;Based on TOGAF guide about business capabilities and TOGAF definition of information.&#xA;https://www2.opengroup.org/ogsys/catalog/g161&#xA;http://pubs.opengroup.org/architecture/togaf9-doc/arch/"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessObject>

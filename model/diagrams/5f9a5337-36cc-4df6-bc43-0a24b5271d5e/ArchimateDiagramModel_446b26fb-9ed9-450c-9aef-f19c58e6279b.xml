@@ -9642,4 +9642,16 @@
         xsi:type="archimate:Grouping"
         href="Grouping_171ecee1-44bf-4332-8b69-9d2a83c96d25.xml#171ecee1-44bf-4332-8b69-9d2a83c96d25"/>
   </children>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Inter-RA mapping 1"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

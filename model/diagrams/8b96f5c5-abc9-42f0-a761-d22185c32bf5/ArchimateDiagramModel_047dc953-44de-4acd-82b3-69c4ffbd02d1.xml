@@ -69,4 +69,16 @@
         xsi:type="archimate:ApplicationProcess"
         href="ApplicationProcess_a4b71a09-f43a-4d4f-a070-f2bbbbafc6b7.xml#a4b71a09-f43a-4d4f-a070-f2bbbbafc6b7"/>
   </children>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Test"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

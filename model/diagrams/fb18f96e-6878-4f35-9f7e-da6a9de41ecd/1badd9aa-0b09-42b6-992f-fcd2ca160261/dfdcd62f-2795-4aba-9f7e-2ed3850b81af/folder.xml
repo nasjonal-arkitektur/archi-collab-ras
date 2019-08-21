@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Capabilities per Layer"
-    id="dfdcd62f-2795-4aba-9f7e-2ed3850b81af"/>
+    id="dfdcd62f-2795-4aba-9f7e-2ed3850b81af">
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Capabilities per Layer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

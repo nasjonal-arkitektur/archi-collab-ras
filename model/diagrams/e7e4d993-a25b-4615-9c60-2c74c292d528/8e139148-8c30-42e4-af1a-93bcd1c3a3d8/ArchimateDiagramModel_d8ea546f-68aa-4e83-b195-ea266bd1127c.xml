@@ -159,4 +159,16 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_3e132955-3837-4ac5-b5d5-a0cb95f951bc.xml#3e132955-3837-4ac5-b5d5-a0cb95f951bc"/>
   </children>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Business Objects, Government Reference Model"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

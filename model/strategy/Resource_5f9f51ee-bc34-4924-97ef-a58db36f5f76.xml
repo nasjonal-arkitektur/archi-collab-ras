@@ -1,4 +1,29 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Pipe and filter pattern"
-    id="5f9f51ee-bc34-4924-97ef-a58db36f5f76"/>
+    id="5f9f51ee-bc34-4924-97ef-a58db36f5f76">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="book:Architectural Patterns"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Pipe and filter pattern"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:BibliographicResource"
+      value="Raj, Pethuru, Anupama Raman, and Harihara Subramanian. Architectural Patterns. Packt Publishing, 2017. https://my.safaribooksonline.com/book/software-engineering-and-development/9781787287495."/>
+</archimate:Resource>

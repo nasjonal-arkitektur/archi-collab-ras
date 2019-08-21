@@ -1149,4 +1149,16 @@
         xsi:type="archimate:Grouping"
         href="Grouping_6693d447-a197-42b4-88db-c7044b7e084e.xml#6693d447-a197-42b4-88db-c7044b7e084e"/>
   </children>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Capabilities level 1, Government Reference Model"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

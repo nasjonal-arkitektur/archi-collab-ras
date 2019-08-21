@@ -1,4 +1,29 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Shared business function"
-    id="c2431415-d8bc-41b1-808b-1125c37a97ef"/>
+    id="c2431415-d8bc-41b1-808b-1125c37a97ef">
+  <properties
+      key="dct:type"
+      value="archi:constraint"/>
+  <properties
+      key="difi:namespace"
+      value="book:Architectural Patterns"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Shared business function"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:BibliographicResource"
+      value="Raj, Pethuru, Anupama Raman, and Harihara Subramanian. Architectural Patterns. Packt Publishing, 2017. https://my.safaribooksonline.com/book/software-engineering-and-development/9781787287495."/>
+</archimate:Constraint>

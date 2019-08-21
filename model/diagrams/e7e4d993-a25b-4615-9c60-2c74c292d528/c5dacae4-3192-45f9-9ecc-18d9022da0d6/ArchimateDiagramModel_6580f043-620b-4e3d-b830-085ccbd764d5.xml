@@ -249,10 +249,10 @@
         source="d6f9bc8b-ddc6-42e9-9234-882a2424e18a"
         target="4b0e9bfa-bbe1-4b6a-ae73-b73b19f0e137">
       <bendpoints
-          startX="-42"
-          startY="77"
-          endX="450"
-          endY="-53"/>
+          startX="-44"
+          startY="78"
+          endX="448"
+          endY="-52"/>
       <bendpoints
           startX="-450"
           startY="77"
@@ -318,6 +318,11 @@
         textPosition="0"
         source="d6f9bc8b-ddc6-42e9-9234-882a2424e18a"
         target="7b96c97d-60e5-4519-b63b-23117122b083">
+      <bendpoints
+          startX="4"
+          startY="66"
+          endX="4"
+          endY="-70"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_a11fbc11-5667-4f89-81ad-8e9ec46a78a1.xml#a11fbc11-5667-4f89-81ad-8e9ec46a78a1"/>
@@ -829,4 +834,16 @@
         xsi:type="archimate:Principle"
         href="Principle_adb29278-1656-4003-990c-4467917d8ae5.xml#adb29278-1656-4003-990c-4467917d8ae5"/>
   </children>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="BIZBOK metamodel"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

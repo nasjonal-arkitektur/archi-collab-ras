@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DMBOK2 Subject Areas"
-    id="31385374-5752-4b65-b05d-79fa63e93483"/>
+    id="31385374-5752-4b65-b05d-79fa63e93483">
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="DMBOK2 Subject Areas"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

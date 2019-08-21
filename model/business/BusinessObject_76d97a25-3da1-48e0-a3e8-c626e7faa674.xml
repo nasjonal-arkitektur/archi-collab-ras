@@ -1,0 +1,79 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retskilde"
+    id="76d97a25-3da1-48e0-a3e8-c626e7faa674"
+    documentation="Legal means, involving an obligation, which are available to the European institutions to carry out their tasks. The European binding instruments listed in Article 288 of the Treaty on the Functioning of the European Union are:&#xA;- regulations: these are binding in their entirety and directly applicable in all EU countries;&#xA;- directives: these bind the EU countries as to the results to be achieved; they have to be transposed into the national legal framework and thus leave margin for manoeuvre as to the form and means of implementation;&#xA;- decisions: these are fully binding on those to whom they are addressed.&#xA;&#xA;Based on EUR-Lex&#xA;http://eur-lex.europa.eu/summary/glossary/community_legal_instruments.html">
+  <properties
+      key="eira:id"
+      value="ABB17"/>
+  <properties
+      key="dct:type"
+      value="eira:BindingInstrument"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="dct:spatial"
+      value="[ EU | National | Sub-national ]"/>
+  <properties
+      key="eira:requirement_or_constraint"
+      value="[ Requirement | Constraint ]"/>
+  <properties
+      key="eira:implementation_supported_by_a_TES"
+      value="[ Yes | No ]"/>
+  <properties
+      key="eira:supporting_a_TES"
+      value="[ Yes | No ]"/>
+  <properties
+      key="fda:id"
+      value="FDA-361"/>
+  <properties
+      key="fda:definition"/>
+  <properties
+      key="fda:beskrivelse"/>
+  <properties
+      key="fda:ejer"
+      value="8.1"/>
+  <properties
+      key="fda:version"
+      value="0.1"/>
+  <properties
+      key="fda:status"
+      value="Under udvikling"/>
+  <properties
+      key="fda:kilde"
+      value="Referencearkitektur - Deling af data og dokumenter"/>
+  <properties
+      key="fda:mærke"
+      value="Defineret"/>
+  <properties
+      key="fda:EIRA engelsk/dansk"/>
+  <properties
+      key="eira:reuse_status"
+      value="[Genbrugt | Ikke genbrugt]"/>
+  <properties
+      key="eira:spatial"
+      value="EU; Fælles-offentligt; Domæne; Lokal"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Retskilde"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="Legal means, involving an obligation, which are available to the European institutions to carry out their tasks. The European binding instruments listed in Article 288 of the Treaty on the Functioning of the European Union are:&#xA;- regulations: these are binding in their entirety and directly applicable in all EU countries;&#xA;- directives: these bind the EU countries as to the results to be achieved; they have to be transposed into the national legal framework and thus leave margin for manoeuvre as to the form and means of implementation;&#xA;- decisions: these are fully binding on those to whom they are addressed.&#xA;&#xA;Based on EUR-Lex&#xA;http://eur-lex.europa.eu/summary/glossary/community_legal_instruments.html"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessObject>

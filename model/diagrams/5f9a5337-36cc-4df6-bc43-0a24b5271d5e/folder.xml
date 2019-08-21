@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inter-RA mapping"
-    id="5f9a5337-36cc-4df6-bc43-0a24b5271d5e"/>
+    id="5f9a5337-36cc-4df6-bc43-0a24b5271d5e">
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Inter-RA mapping"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

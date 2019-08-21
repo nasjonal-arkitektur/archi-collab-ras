@@ -1,4 +1,17 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metamodel"
-    id="2d93558a-5e0e-4bd6-a817-d0aa7b131bfc"/>
+    id="2d93558a-5e0e-4bd6-a817-d0aa7b131bfc">
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Metamodel"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

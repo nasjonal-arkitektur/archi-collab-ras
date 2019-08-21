@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Warehousing and Business Intelligence "
-    id="24446025-cd7a-4ec5-807a-47bcd571108d"/>
+    id="24446025-cd7a-4ec5-807a-47bcd571108d">
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Data Warehousing and Business Intelligence "/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:ArchimateDiagramModel>

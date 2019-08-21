@@ -1,0 +1,67 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Den registrerede"
+    id="3947bdc7-2dce-4ae5-9702-ba3fc187a0a8"
+    documentation="A Public Service Consumer is a Public Administration, Business or Citizen consuming public services. [European Interoperability Framework]&#xA;&#xA;Source: Based on EIF 2.0&#xA;http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf">
+  <properties
+      key="eira:id"
+      value="ABB5"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceConsumer"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="fda:id"
+      value="FDA-345"/>
+  <properties
+      key="fda:definition"
+      value="Rolle den person (datasubjekt), som oplysningerne vedrører (rolle fra GDPR)"/>
+  <properties
+      key="fda:beskrivelse"/>
+  <properties
+      key="fda:ejer"
+      value="8.1"/>
+  <properties
+      key="fda:version"
+      value="0.1"/>
+  <properties
+      key="fda:status"
+      value="Under udvikling"/>
+  <properties
+      key="fda:kilde"
+      value="Referencearkitektur - Deling af data og dokumenter"/>
+  <properties
+      key="fda:mærke"
+      value="Defineret"/>
+  <properties
+      key="fda:EIRA engelsk/dansk"
+      value="Public Service Consumer/Offentlig service forbruger"/>
+  <properties
+      key="eira:reuse_status"
+      value="[Genbrugt | Ikke genbrugt]"/>
+  <properties
+      key="eira:spatial"
+      value="EU; Fælles-offentligt; Domæne; Lokal"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Den registrerede"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A Public Service Consumer is a Public Administration, Business or Citizen consuming public services. [European Interoperability Framework]&#xA;&#xA;Source: Based on EIF 2.0&#xA;http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessRole>

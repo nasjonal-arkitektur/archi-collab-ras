@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="assignment"
+    id="aa0eb15a-8ac1-4fa9-899c-db74e4b9a5d9">
+  <properties
+      key="dct:type"
+      value="archi:assignment-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="assignment"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_f0448280-28b3-48a1-9373-2f74311aca36.xml#f0448280-28b3-48a1-9373-2f74311aca36"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_3885c0f0-081f-4101-9567-0d51b5bd9de4.xml#3885c0f0-081f-4101-9567-0d51b5bd9de4"/>
+</archimate:AssignmentRelationship>
