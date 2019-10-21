@@ -1,14 +1,14 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kapitalforvaltning"
+    name="Investment Management"
     id="68f62a1c-7709-4159-b35d-042004fee187"
     documentation="Ability to identify, develop, analyze, valuate, exchange, acquire, dispose of, and report on any type of monetary asset purchased with the idea that the asset will provide income in the future or will be sold at a higher price for a profit.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
-      value="no"/>
+      value="en"/>
   <properties
       key="difi:name_no"
       value="Kapitalforvaltning"/>
@@ -22,8 +22,11 @@
       value="Ability to identify, develop, analyze, valuate, exchange, acquire, dispose of, and report on any type of monetary asset purchased with the idea that the asset will provide income in the future or will be sold at a higher price for a profit."/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

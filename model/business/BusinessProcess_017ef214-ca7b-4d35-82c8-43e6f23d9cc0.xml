@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdater utrrekksjobber"
+    id="017ef214-ca7b-4d35-82c8-43e6f23d9cc0">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:BusinessProcess>

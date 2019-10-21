@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Andre IT-systemer"
+    id="bf1ead6b-ac58-405f-9a88-3ee9e83bd1e5"
+    documentation="Økonomisystemer, HR-systemer, Kontorstøtte, virksomhetsstyring, prosjektplanleggeing, ERP, CRM">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationComponent>

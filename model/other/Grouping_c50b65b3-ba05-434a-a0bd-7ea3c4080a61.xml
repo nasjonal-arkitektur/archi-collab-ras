@@ -1,0 +1,8 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT"
+    id="c50b65b3-ba05-434a-a0bd-7ea3c4080a61">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Grouping>

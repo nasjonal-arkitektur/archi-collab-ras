@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retningslinjer"
+    id="498d5614-56e4-48fe-8854-ce25eb9e2b90">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Requirement>

@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skytjenester"
+    id="d12d4bbc-e566-442c-86a6-53a81d00dc36">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:TechnologyService>

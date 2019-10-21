@@ -5,7 +5,7 @@
     documentation="Ability to create, track, and resolve an official argument or disagreement among interested parties, or provide a formal written petition for the redress of an injustice.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

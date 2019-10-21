@@ -4,7 +4,7 @@
     id="9ea2dd3c-510c-4150-9152-9feb4c6a9b89">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -23,4 +23,7 @@
   <properties
       key="dct:type"
       value="archi:grouping"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Grouping>

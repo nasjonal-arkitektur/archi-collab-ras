@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppslagstjenester for dataaksess"
+    id="d704d6ca-5086-4c28-96a5-cb568a301869">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationService>

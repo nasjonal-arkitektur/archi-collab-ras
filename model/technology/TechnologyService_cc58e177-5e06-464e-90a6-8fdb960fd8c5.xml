@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maskinlæring"
+    id="cc58e177-5e06-464e-90a6-8fdb960fd8c5">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:TechnologyService>

@@ -5,7 +5,7 @@
     documentation="Ability to plan, track, prepare for, depart, arrive, and adjust a journey between a starting point location and one or more targeted locations, until a final destination is reached.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

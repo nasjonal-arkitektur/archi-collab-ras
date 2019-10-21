@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjon"
+    id="e9410ba6-43bf-4f05-b713-ff783292ffab">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Requirement>

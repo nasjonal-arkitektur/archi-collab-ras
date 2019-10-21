@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyser, produser og publiser data"
+    id="a715dde9-d601-41a6-8d96-7595133f5b1d">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Livssyklusadministrasjon og sporing"
+    id="c7ce5f16-7525-4b2b-bf37-f5e495130ae2"
+    documentation="Inkl. master data management, endringshåndtering, konfigurasjonsstyring">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Capability>

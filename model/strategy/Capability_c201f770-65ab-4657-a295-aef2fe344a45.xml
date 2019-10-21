@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oversikt og gjenfinning"
+    id="c201f770-65ab-4657-a295-aef2fe344a45"
+    documentation="Gjelder både egen data og oversikt og gjenfinning hos revidert virksomhet">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Capability>

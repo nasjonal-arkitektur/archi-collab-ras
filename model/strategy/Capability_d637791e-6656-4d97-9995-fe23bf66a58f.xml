@@ -5,7 +5,7 @@
     documentation="Ability to define, establish, validate, value, obtain, or dispose of inventions, patents, trademarks, trade secrets, copyrights, and know how as a basis for furthering the overall mission of the organization.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

@@ -24,5 +24,5 @@
       value="This ABB serves as an entry point to this layer. Other layers interact with this ABB to leverage other ABBs in this layer to fulfill their respective responsibilities. In turn, this ABB is thus responsible for interfacing with other ABBs in this layer and managing the interaction flow among the ABBs in this layer. For example, it delegates to the Router ABB to service requests and it delegates to the Message Transformer ABB for the data, format, and message transformation needs of the other layers."/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+      value="${name}"/>
 </archimate:Resource>

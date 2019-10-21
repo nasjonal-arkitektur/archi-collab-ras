@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datavarehus"
+    id="55eadc00-2589-4f78-8ce7-edd9eb1f3250">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:TechnologyService>

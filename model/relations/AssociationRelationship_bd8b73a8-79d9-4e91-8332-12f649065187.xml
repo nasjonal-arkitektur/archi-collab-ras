@@ -4,8 +4,7 @@
     name="association"
     id="bd8b73a8-79d9-4e91-8332-12f649065187">
   <properties
-      key="label"
-      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+      key="label"/>
   <properties
       key="difi:namespace"
       value="-"/>

@@ -1,0 +1,8 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programmer"
+    id="d4d4fef1-f527-4c0a-95be-56b62e2fd584">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:WorkPackage>

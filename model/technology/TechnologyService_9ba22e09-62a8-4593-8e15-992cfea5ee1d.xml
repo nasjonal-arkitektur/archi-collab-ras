@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Database"
+    id="9ba22e09-62a8-4593-8e15-992cfea5ee1d">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:TechnologyService>

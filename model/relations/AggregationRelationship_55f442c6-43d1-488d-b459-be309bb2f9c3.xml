@@ -2,6 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="55f442c6-43d1-488d-b459-be309bb2f9c3">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_36630af5-416e-4fbe-b85d-e5025a1fcd63.xml#36630af5-416e-4fbe-b85d-e5025a1fcd63"/>

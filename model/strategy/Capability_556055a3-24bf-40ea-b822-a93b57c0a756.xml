@@ -5,7 +5,7 @@
     documentation="Ability to establish, use, sustain, disseminate, and analyze an occurrence or happening at a determinable time and place, including physical and virtual meetings, conferences, or related gatherings of two or more persons.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

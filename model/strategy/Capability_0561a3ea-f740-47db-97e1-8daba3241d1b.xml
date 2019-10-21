@@ -1,0 +1,26 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oversikt over interne datakilder"
+    id="0561a3ea-f740-47db-97e1-8daba3241d1b">
+  <properties
+      key="difi:namespace"
+      value="Riksrevisjonen-IF"/>
+  <properties
+      key="difi:name_no"
+      value="Oversikt over interne datakilder [ns:RR]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

@@ -5,7 +5,7 @@
     documentation="Ability to identify, track, and respond to a demand for or request to indemnify customers under the terms of an agreement.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

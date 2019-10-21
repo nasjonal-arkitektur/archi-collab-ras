@@ -1,0 +1,26 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrering"
+    id="6caed64c-0ba1-474f-bfb7-a7201d18891b">
+  <properties
+      key="difi:namespace"
+      value="Riksrevisjonen-IF"/>
+  <properties
+      key="difi:name_no"
+      value="Registrering [ns:RR]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

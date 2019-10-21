@@ -1,0 +1,33 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="business relation"
+    id="64df5d8d-c4ca-4101-b0ca-7c3ffed36d34">
+  <properties
+      key="difi:namespace"
+      value="tog open platform"/>
+  <properties
+      key="difi:name_no"
+      value="business relation"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="association-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_5417c7a4-66f9-4140-88b3-494766e9d656.xml#5417c7a4-66f9-4140-88b3-494766e9d656"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_172c8d35-3db0-4f60-b480-36c52a127d7c.xml#172c8d35-3db0-4f60-b480-36c52a127d7c"/>
+</archimate:AssociationRelationship>

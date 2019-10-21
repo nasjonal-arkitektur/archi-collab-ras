@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedre skjerming av sensitive data"
+    id="7e033b10-7670-412f-8d38-f0b31e56cfd3">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Goal>

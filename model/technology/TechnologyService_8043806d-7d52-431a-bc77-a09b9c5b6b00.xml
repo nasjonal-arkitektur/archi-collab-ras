@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transportprotokoller"
+    id="8043806d-7d52-431a-bc77-a09b9c5b6b00"
+    documentation="http://www.odata.org/getting-started/understand-odata-in-6-steps/&#xA;">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:TechnologyService>

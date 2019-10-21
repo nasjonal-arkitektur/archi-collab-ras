@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilgjengeliggjør data"
+    id="116f0b51-6e1a-4dc1-9f5f-f501f09c1bca"
+    documentation="Bestille data, gjøre datauttrekk (hvem), motta bestilte filer">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:BusinessProcess>

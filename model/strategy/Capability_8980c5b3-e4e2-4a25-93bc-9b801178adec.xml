@@ -1,0 +1,26 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjenbruk av informasjon og løsninger"
+    id="8980c5b3-e4e2-4a25-93bc-9b801178adec">
+  <properties
+      key="difi:namespace"
+      value="Riksrevisjonen-IF"/>
+  <properties
+      key="difi:name_no"
+      value="Gjenbruk av informasjon og løsninger [ns:RR]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

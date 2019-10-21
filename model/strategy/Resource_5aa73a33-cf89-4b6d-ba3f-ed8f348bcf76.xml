@@ -26,4 +26,7 @@
   <properties
       key="dct:BibliographicResource"
       value="Raj, Pethuru, Anupama Raman, and Harihara Subramanian. Architectural Patterns. Packt Publishing, 2017. https://my.safaribooksonline.com/book/software-engineering-and-development/9781787287495."/>
+  <properties
+      key="drill down"
+      value="822ff48c-096a-4acd-8e64-4645d88b61f4"/>
 </archimate:Resource>

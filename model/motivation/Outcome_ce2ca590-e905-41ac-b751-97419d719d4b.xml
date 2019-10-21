@@ -1,0 +1,8 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingen sensitive data kompromittert"
+    id="ce2ca590-e905-41ac-b751-97419d719d4b">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Outcome>

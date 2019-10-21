@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arbeidsflyt, samhandling og integrasjon"
+    id="1a76723c-a8f8-4350-9736-894ab3259b7b">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationService>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web-applikasjoner"
+    id="bd35a581-46e7-4007-bd0b-a692df2f41db">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationComponent>

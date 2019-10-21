@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tolk og preparer data for analyse"
+    id="a97b6da4-71cd-494f-9bdb-230fac265c66">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:BusinessProcess>

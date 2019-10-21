@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sanntidsoppdatering"
+    id="1621f1cf-9bbe-49fb-87c8-b3b4589ec73e"
+    documentation="gjelder innhenting,. lagring, analyser, publisering">
+  <properties
+      key="difi:namespace"
+      value="Riksrevisjonen-IF"/>
+  <properties
+      key="difi:name_no"
+      value="Sanntidsoppdatering [ns:RR]"/>
+  <properties
+      key="difi:description_no"
+      value="gjelder innhenting,. lagring, analyser, publisering"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

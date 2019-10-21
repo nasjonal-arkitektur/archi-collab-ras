@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brukersystemer"
+    id="d05a5c46-315f-43a6-85b9-aa7d42c06dd5">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationComponent>

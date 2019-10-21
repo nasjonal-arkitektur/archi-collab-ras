@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="exposes"
+    id="baa03332-3748-46f0-8617-624e2fa27abd">
+  <properties
+      key="difi:namespace"
+      value="tog open platform"/>
+  <properties
+      key="difi:name_no"
+      value="exposes"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="assignment-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_ecb044b8-7c59-4382-b2a4-049a5fce401c.xml#ecb044b8-7c59-4382-b2a4-049a5fce401c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_fba4227d-fcfc-4e1d-b996-a2730b854813.xml#fba4227d-fcfc-4e1d-b996-a2730b854813"/>
+</archimate:AssignmentRelationship>

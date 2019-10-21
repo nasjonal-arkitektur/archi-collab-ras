@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programmeringsspråk"
+    id="cc1f674b-fac9-46cb-acec-93ed64ba5327">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:TechnologyService>

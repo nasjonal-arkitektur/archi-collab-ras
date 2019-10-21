@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedre strukturering av data"
+    id="e1f7b39d-43f8-4b46-b84e-81cfc1514786">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Goal>

@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datadrevet virksomhetsstyring"
+    id="fd3d81d0-1c2f-4faf-97e7-92b1077cbae7">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Goal>

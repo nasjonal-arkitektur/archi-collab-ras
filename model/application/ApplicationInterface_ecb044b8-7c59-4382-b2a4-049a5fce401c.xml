@@ -1,0 +1,26 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web Service API"
+    id="ecb044b8-7c59-4382-b2a4-049a5fce401c">
+  <properties
+      key="difi:namespace"
+      value="tog open platform"/>
+  <properties
+      key="difi:name_no"
+      value="Web Service API"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="application-interface"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:ApplicationInterface>

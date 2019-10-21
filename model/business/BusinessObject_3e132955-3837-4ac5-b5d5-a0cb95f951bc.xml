@@ -4,7 +4,7 @@
     id="3e132955-3837-4ac5-b5d5-a0cb95f951bc">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -23,4 +23,7 @@
   <properties
       key="dct:type"
       value="archi:business-object"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:BusinessObject>

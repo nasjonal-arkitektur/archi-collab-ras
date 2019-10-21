@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyseverktøy"
+    id="99323ca9-6db9-4949-b3f6-a366a8cf04b0"
+    documentation="Herunder også datapreparering">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationComponent>

@@ -5,7 +5,7 @@
     documentation="Ability to assess, mentor, compensate, terminate, and otherwise coordinate individuals who are or have been incorporated under a legal agreement that includes compensation and other benefits, on a temporary or permanent basis.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

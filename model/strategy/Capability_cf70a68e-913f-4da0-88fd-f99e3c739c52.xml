@@ -5,7 +5,7 @@
     documentation="Ability to establish, analyze, and utilize a digital, analog, or physical conduit through which products, related services or communications are delivered or received, including the Internet, phone, delivery service, satellite, radio, or physical means.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

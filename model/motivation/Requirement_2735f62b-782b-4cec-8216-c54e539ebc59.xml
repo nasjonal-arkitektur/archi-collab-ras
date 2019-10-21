@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teknologier"
+    id="2735f62b-782b-4cec-8216-c54e539ebc59">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Requirement>

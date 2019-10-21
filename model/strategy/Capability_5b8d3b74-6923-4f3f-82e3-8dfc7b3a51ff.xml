@@ -5,7 +5,7 @@
     documentation="Ability to define, design, profile, rate, and validate the skills and knowledge necessary to do something.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -15,7 +15,8 @@
       key="difi:name_en"
       value="Competency Management"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Kompetansestyring"/>
   <properties
       key="difi:description_en"
       value="Ability to define, design, profile, rate, and validate the skills and knowledge necessary to do something."/>
@@ -25,4 +26,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

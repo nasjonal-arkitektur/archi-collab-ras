@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Større endringsevne"
+    id="c2e566b7-1f11-403c-93ae-b29f13a295cb">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Requirement>

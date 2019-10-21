@@ -1429,15 +1429,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="65fda07d-3982-4b11-8141-d24ee46f2fb0"
-        source="4f024064-8897-4592-bdb4-2b4733126847"
-        target="d756d459-9242-447d-b6fc-3c2ad509df4c">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_1e51c05a-8477-480d-8736-54232f9fa847.xml#1e51c05a-8477-480d-8736-54232f9fa847"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="09a75c0e-0aa4-4f35-a841-6dd8c00d3b1c"
         source="4f024064-8897-4592-bdb4-2b4733126847"
         target="4124d13c-1028-4732-a3b3-cdd22bff7b14">
@@ -2038,6 +2029,15 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_8914a08e-1046-47fc-a797-b54a706c52fe.xml#8914a08e-1046-47fc-a797-b54a706c52fe"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="65fda07d-3982-4b11-8141-d24ee46f2fb0"
+        source="4f024064-8897-4592-bdb4-2b4733126847"
+        target="d756d459-9242-447d-b6fc-3c2ad509df4c">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_1e51c05a-8477-480d-8736-54232f9fa847.xml#1e51c05a-8477-480d-8736-54232f9fa847"/>
     </sourceConnections>
     <bounds
         x="840"
@@ -9641,6 +9641,19 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_171ecee1-44bf-4332-8b69-9d2a83c96d25.xml#171ecee1-44bf-4332-8b69-9d2a83c96d25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b1c66e95-878f-4644-af13-c9055106c4ea"
+      textPosition="1">
+    <bounds
+        x="996"
+        y="4632"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_bee01f93-0d0e-408d-837d-7f2a69dc42fc.xml#bee01f93-0d0e-408d-837d-7f2a69dc42fc"/>
   </children>
   <properties
       key="difi:language"

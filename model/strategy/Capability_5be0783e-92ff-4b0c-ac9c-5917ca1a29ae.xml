@@ -5,7 +5,7 @@
     documentation="Ability to identify, track, and set life quality standards for the population of non-human living things, including all categories of animals and plants that react to stimuli, consume natural resources to grow, thrive, and reproduce.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

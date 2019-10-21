@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veiledning"
+    id="6f897e27-d809-4b4a-a03d-4eaf3008404c">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Requirement>

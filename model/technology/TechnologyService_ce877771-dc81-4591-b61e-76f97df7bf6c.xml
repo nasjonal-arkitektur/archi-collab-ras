@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datasjø"
+    id="ce877771-dc81-4591-b61e-76f97df7bf6c">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:TechnologyService>

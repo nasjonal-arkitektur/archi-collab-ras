@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datalasting og transformasjon"
+    id="1fae7e1d-6399-491e-b048-591e72854557">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:TechnologyService>

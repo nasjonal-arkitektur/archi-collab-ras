@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samarbeidsverktøy"
+    id="63bfc58e-b5ba-49c3-ac76-c117a4978723">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationComponent>

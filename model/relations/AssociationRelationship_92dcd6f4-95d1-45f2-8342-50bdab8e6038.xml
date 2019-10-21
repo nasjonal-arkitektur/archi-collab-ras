@@ -25,7 +25,7 @@
       value="A [Public Service Delivery Agent] acts on behalf of [Public Service Provider]"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_3fa89161-7a3a-402b-aa3d-c4b825702318.xml#3fa89161-7a3a-402b-aa3d-c4b825702318"/>

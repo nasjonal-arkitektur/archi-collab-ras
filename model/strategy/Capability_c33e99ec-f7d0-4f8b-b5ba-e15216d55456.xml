@@ -5,7 +5,7 @@
     documentation="Ability to define, assign, assess, and track a substantive, serious, unexpected, and sometimes dangerous situation, occurrence, emergency, or potential breach of policy or legislation requiring swift action, involving operations, constituents, bio-organisms, or geographic space.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

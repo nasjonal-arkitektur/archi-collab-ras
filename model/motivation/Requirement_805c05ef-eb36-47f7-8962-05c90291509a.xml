@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kababiliteter"
+    id="805c05ef-eb36-47f7-8962-05c90291509a">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Requirement>

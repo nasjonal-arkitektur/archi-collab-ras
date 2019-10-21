@@ -5,7 +5,7 @@
     documentation="Ability to define, craft, frame, vet, disseminate, and track a verbal, written, recorded, or digitally represented communication, including missives, notifications, alerts, and other internally or externally targeted communiqué about the organization's mission, products, plans, activities, and other focal points.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -15,7 +15,8 @@
       key="difi:name_en"
       value="Message Management"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Kommunikasjonsledelse"/>
   <properties
       key="difi:description_en"
       value="Ability to define, craft, frame, vet, disseminate, and track a verbal, written, recorded, or digitally represented communication, including missives, notifications, alerts, and other internally or externally targeted communiqué about the organization's mission, products, plans, activities, and other focal points."/>
@@ -25,4 +26,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

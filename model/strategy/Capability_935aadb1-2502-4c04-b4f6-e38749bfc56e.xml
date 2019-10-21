@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjonsfangst"
+    id="935aadb1-2502-4c04-b4f6-e38749bfc56e">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Capability>

@@ -1,0 +1,33 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="serves"
+    id="d9bef539-5508-464b-9af0-a1b9fae5dcf6">
+  <properties
+      key="difi:namespace"
+      value="tog open platform"/>
+  <properties
+      key="difi:name_no"
+      value="serves"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="serving-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_5c6f22c0-4f65-4443-a5cd-9cc0077e3aff.xml#5c6f22c0-4f65-4443-a5cd-9cc0077e3aff"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_069142e8-decb-4ee3-b6d1-1a38b3663c95.xml#069142e8-decb-4ee3-b6d1-1a38b3663c95"/>
+</archimate:ServingRelationship>

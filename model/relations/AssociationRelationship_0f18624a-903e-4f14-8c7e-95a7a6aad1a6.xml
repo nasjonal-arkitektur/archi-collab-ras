@@ -7,8 +7,7 @@
       key="difi:namespace"
       value="dmbok2"/>
   <properties
-      key="label"
-      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+      key="label"/>
   <properties
       key="difi:language"
       value="en"/>

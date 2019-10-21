@@ -5,7 +5,7 @@
     documentation="Ability to organize, distribute, conserve, control, and monitor the generation and use of sources of power derived from the utilization of physical or chemical resources, especially to provide light and heat and to work devices and machines.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

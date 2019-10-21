@@ -11,7 +11,7 @@
       value="archi:capability"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
   <properties
       key="difi:language"
       value="en"/>

@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjon"
+    id="15daf546-fdea-4fb5-bec9-15be24dd785a">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:BusinessObject>

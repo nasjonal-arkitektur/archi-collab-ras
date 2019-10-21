@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mer deling av data på tvers internt"
+    id="7fb73761-3ca7-416a-bb9f-3bd6507182aa">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Goal>

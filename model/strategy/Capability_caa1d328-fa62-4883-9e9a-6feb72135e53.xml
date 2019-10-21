@@ -5,7 +5,7 @@
     documentation="The ability to design, procure, maintain, and dispose of any variety of an apparatus or assembly whether human or robotically piloted that has the capacity to transport people, animals, goods, assets, or other physical items, and includes but is not limited to trucks, carts, airplanes, automobiles, railroad trains, water-borne craft, and animal-pulled devices or animal-assemblies such as mule-trains.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

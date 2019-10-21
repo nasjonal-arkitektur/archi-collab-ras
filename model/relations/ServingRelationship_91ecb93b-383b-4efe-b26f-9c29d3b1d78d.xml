@@ -7,8 +7,7 @@
       key="dct:type"
       value="archi:serving-relationship"/>
   <properties
-      key="label"
-      value="${name}"/>
+      key="label"/>
   <properties
       key="difi:namespace"
       value="-"/>

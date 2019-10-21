@@ -1,0 +1,33 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="composition"
+    id="dafc4374-a589-43dc-b33d-8cab4eb9f5f6">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="composition"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:composition-relationship"/>
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_2d5f2608-e86b-482a-90e3-1e2850264ef1.xml#2d5f2608-e86b-482a-90e3-1e2850264ef1"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_f490e489-b504-4460-9544-1fab8fc60843.xml#f490e489-b504-4460-9544-1fab8fc60843"/>
+</archimate:CompositionRelationship>

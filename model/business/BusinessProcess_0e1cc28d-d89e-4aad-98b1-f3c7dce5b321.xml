@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdater jobber for dataanalyse"
+    id="0e1cc28d-d89e-4aad-98b1-f3c7dce5b321"
+    documentation="NB: Hvordan sikre at tidligere analyseresultater forvblir sammenliknbare? Kanskje kjøre analyser på nytt">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:BusinessProcess>

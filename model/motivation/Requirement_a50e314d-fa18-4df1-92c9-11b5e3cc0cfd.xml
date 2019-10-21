@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prinsipper"
+    id="a50e314d-fa18-4df1-92c9-11b5e3cc0cfd">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Requirement>

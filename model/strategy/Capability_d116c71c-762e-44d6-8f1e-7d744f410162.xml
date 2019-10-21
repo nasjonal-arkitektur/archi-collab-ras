@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Løpende infofangst"
+    id="d116c71c-762e-44d6-8f1e-7d744f410162"
+    documentation="Hendelsesbasert&#xA;Sanntid, transaksjonsstrømmer">
+  <properties
+      key="difi:namespace"
+      value="Riksrevisjonen-IF"/>
+  <properties
+      key="difi:name_no"
+      value="Løpende infofangst [ns:RR]"/>
+  <properties
+      key="difi:description_no"
+      value="Hendelsesbasert&#xA;Sanntid, transaksjonsstrømmer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

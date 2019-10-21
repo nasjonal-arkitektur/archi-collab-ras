@@ -1,0 +1,26 @@
+<archimate:Path
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wolrd-Wide Web"
+    id="496f2c83-a288-44b1-85fa-983e0ffae404">
+  <properties
+      key="difi:namespace"
+      value="tog open platform"/>
+  <properties
+      key="difi:name_no"
+      value="Wolrd-Wide Web"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="path"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Path>

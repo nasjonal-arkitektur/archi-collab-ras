@@ -5,7 +5,7 @@
     documentation="Ability to identify, track, set quality standards for, equitably sustain, and distribute the supply of non-living matter derived from nature such as, but not limited to, solar energy, waves, wind, natural gas, shale, minerals, and ores such as coal and precious metals, which include uranium.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

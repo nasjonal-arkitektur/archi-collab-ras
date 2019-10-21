@@ -1,17 +1,17 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Markedsstyring"
+    name="Market Management"
     id="5f14bafa-81fd-4c1a-b578-5ce381a6f90b"
     documentation="Ability to define, identify, quantify, qualify, analyze, segment, address, and create an actual or virtual, or otherwise nominal place where forces of demand and supply operate, and where buyers and sellers interact — directly or through intermediaries — to exchange products and services for monetary or non-monetary value.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
-      value="no"/>
+      value="en"/>
   <properties
       key="difi:name_no"
-      value="Markedsstyring"/>
+      value="Markedsledelse"/>
   <properties
       key="difi:name_en"
       value="Market Management"/>
@@ -22,8 +22,11 @@
       value="Ability to define, identify, quantify, qualify, analyze, segment, address, and create an actual or virtual, or otherwise nominal place where forces of demand and supply operate, and where buyers and sellers interact — directly or through intermediaries — to exchange products and services for monetary or non-monetary value."/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

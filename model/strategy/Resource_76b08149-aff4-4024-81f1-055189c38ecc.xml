@@ -24,5 +24,5 @@
       value="This ABB is responsible for transforming messages from one format to the other, including data format transforms into a single “canonical” form or its subset, and transformation across protocols to whatever protocols that are routed. It also supports data enrichment."/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+      value="${name}"/>
 </archimate:Resource>

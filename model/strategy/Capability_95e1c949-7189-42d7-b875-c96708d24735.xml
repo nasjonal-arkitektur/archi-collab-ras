@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lagring"
+    id="95e1c949-7189-42d7-b875-c96708d24735">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Capability>

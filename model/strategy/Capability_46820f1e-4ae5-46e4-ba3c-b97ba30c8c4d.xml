@@ -5,7 +5,7 @@
     documentation="Ability to acquire, create, track, report on, and dispose of tangible or intangible property with intrinsic value, including software applications and computing hardware.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

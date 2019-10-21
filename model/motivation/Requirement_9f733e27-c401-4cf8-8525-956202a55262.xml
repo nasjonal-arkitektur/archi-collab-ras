@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mer koordinert informasjonssikkerhet"
+    id="9f733e27-c401-4cf8-8525-956202a55262">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Requirement>

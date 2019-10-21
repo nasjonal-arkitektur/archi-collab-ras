@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overføring av eksterne data"
+    id="4f4aa6c7-b4dc-4b58-acc9-9b828e92569a"
+    documentation="kan være skybasert">
+  <properties
+      key="difi:namespace"
+      value="Riksrevisjonen-IF"/>
+  <properties
+      key="difi:name_no"
+      value="Overføring av eksterne data [ns:RR]"/>
+  <properties
+      key="difi:description_no"
+      value="kan være skybasert"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

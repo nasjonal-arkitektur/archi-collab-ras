@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sikkerhetstjenester"
+    id="6dc455b2-e4a3-4e4b-9959-7e5dfac7dcdf"
+    documentation="logging, kryptering, autentisering, autorisering">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationService>

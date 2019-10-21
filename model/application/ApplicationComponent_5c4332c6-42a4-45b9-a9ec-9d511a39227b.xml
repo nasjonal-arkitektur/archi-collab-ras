@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IKT infrastruktur"
+    id="5c4332c6-42a4-45b9-a9ec-9d511a39227b"
+    documentation="Databaser,m Exchange, sky, ...">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationComponent>

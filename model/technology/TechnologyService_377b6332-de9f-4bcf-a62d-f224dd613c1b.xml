@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API management"
+    id="377b6332-de9f-4bcf-a62d-f224dd613c1b">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:TechnologyService>

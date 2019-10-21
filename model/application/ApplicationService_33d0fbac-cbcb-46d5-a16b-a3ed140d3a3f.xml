@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sporing"
+    id="33d0fbac-cbcb-46d5-a16b-a3ed140d3a3f"
+    documentation="Data lineage, ut fra loggdata">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationService>

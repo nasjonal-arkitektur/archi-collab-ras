@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domain"
+    id="9b1610c2-1bcd-4126-a45d-8544687d7b17"
+    documentation="NIEM domains are organized to facilitate governance, and each has&#xD;&#xA;some measure of persistency. Each domain traditionally includes a cohesive&#xD;&#xA;group of data stewards who are subject‐matter experts (SMEs), have some level&#xD;&#xA;of authority within the domains they represent, and participate in the processes&#xD;&#xA;related to harmonizing conflicts and resolving data‐component ambiguities"/>

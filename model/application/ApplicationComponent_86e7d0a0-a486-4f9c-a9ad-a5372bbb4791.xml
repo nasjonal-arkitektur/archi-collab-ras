@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lagringssystemer"
+    id="86e7d0a0-a486-4f9c-a9ad-a5372bbb4791"
+    documentation="Inkil. grunndata / MDM og CMS, Databaser">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationComponent>

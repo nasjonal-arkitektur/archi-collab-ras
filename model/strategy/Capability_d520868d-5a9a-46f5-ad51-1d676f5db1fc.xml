@@ -5,7 +5,7 @@
     documentation="Ability to manage a question, request, feedback, or comment that may exist inside or outside of the organization, which can be received, identified, harvested, disseminated, classified, and tracked.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

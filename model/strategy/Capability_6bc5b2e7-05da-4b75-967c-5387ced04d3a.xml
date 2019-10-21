@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyse, produksjon og publisering"
+    id="6bc5b2e7-05da-4b75-967c-5387ced04d3a">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Capability>

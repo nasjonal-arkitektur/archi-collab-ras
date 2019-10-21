@@ -5,12 +5,13 @@
     documentation="The ability to define, research, assess, recommend a plan of action for, act on, report on, resolve within a defined timeframe, or otherwise address an instance of a situation or condition associated with a constituent, that is related to legal, social, healthcare, or related government services.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Saksbehandling"/>
   <properties
       key="difi:name_en"
       value="Case Management"/>
@@ -25,4 +26,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

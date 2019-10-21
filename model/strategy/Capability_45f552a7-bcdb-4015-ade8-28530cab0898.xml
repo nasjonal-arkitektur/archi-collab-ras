@@ -5,7 +5,7 @@
     documentation="Ability to request, define, approve, evolve, monitor, evaluate the effects of, and determine compliance with a set of authoritative directives that include laws, regulations, or related statutory instruments.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

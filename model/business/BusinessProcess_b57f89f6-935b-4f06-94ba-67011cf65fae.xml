@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implement and Monitor"
+    id="b57f89f6-935b-4f06-94ba-67011cf65fae"
+    documentation="Activate the data services that have been developed and tested. Real-time data processing requires real-time monitoring for issues. Establish parameters that indicate potential problems with processing, as well as direct notification of issues. Automated as well as human monitoring for issues should be established, especially as the complexity and risk of the triggered responses rises. There are cases, for example, where issues with automated financial securities trading algorithms have triggered actions that have affected entire markets or bankrupted organizations.&#xD;&#xA;&#xD;&#xA;Data interaction capabilities must be monitored and serviced at the same service level as the most demanding target application or data consumer. "/>

@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedre kvalitetssikring av informasjon"
+    id="ca8b8d68-f9de-4bd2-bff5-5a204c971589">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Goal>

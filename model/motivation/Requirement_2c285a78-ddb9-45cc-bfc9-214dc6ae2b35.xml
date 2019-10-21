@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Krav"
+    id="2c285a78-ddb9-45cc-bfc9-214dc6ae2b35">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Requirement>

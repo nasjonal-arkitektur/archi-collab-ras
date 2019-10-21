@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjenbruk og automatisering"
+    id="ae7f7c45-bdb7-476e-890b-2b9e61bf0371">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Capability>

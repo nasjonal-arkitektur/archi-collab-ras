@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kopling og semantisk lenking"
+    id="62b2e52d-3cab-412e-8d0d-ce467c6be801">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationService>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Versjonering"
+    id="d04e1e13-1698-42e3-993e-38c2d9d87f87"
+    documentation="INkl. varianthåndtering">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationService>

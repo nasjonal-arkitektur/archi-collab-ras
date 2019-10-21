@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arbeids-prosesser"
+    id="24b7b3a1-fdb6-409c-9040-6b5751694ef8">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Requirement>

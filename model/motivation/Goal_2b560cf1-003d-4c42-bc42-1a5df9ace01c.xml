@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mer effektiv informasjonsforvaltning"
+    id="2b560cf1-003d-4c42-bc42-1a5df9ace01c">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Goal>

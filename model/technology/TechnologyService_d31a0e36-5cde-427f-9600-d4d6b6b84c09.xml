@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Andre teknologier"
+    id="d31a0e36-5cde-427f-9600-d4d6b6b84c09">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:TechnologyService>

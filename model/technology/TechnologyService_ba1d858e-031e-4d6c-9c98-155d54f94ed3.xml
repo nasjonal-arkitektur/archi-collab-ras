@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regelmotor"
+    id="ba1d858e-031e-4d6c-9c98-155d54f94ed3">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:TechnologyService>

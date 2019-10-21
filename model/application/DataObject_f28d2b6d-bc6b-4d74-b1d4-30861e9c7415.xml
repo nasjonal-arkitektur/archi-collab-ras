@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataset"
+    id="f28d2b6d-bc6b-4d74-b1d4-30861e9c7415"
+    documentation="A collection of data, published or curated by a single agent, and available for access or download in one or more representations. Ref. https://w3c.github.io/dxwg/dcat/#Class:Dataset"/>

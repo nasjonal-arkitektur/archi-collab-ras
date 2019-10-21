@@ -5,7 +5,7 @@
     documentation="Ability to define and disseminate the pattern or plan that integrates an organization’s major goals, policies, and action sequences into a cohesive whole.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

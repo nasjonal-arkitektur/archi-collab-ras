@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roller"
+    id="aed1bf19-38d8-4764-a29d-c3c6e3633d05">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Requirement>

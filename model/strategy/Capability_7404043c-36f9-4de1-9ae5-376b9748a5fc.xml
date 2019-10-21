@@ -5,7 +5,7 @@
     documentation="Ability to identify, engage and collaborate with, control, predict, process, organize, present, and analyze all information, documents, preferences, experiences, and history related to an individual or other legal entity that has, plans to have, or has had a legally binding agreement or other established relationship with an organization, with the intent to exchange monetary and/or non-monetary value in the provisioning of assets, delivery of services, or other means of providing support or assistance in the course of conducting private or governmental business.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

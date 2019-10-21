@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Andre IT-tjenester"
+    id="4c64f355-9fe1-4274-bf53-9e2d5ab38442">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationService>

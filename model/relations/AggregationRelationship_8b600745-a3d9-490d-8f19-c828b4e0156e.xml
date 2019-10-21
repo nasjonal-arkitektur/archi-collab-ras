@@ -1,0 +1,15 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prioritet 1"
+    id="8b600745-a3d9-490d-8f19-c828b4e0156e">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_27dc6c9e-6242-4dfb-a14a-a578499c6f87.xml#27dc6c9e-6242-4dfb-a14a-a578499c6f87"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_452f7cff-08fd-4f23-be1f-9a17dda4e13f.xml#452f7cff-08fd-4f23-be1f-9a17dda4e13f"/>
+</archimate:AggregationRelationship>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Slett data"
+    id="09cc9355-27d6-4d1f-9340-edeaef6e34f2"
+    documentation="Etter 5 år">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:BusinessProcess>

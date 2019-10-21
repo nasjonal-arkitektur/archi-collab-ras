@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdater jobber for data-preparering"
+    id="46c090b5-7988-4ee2-a9b1-cc2d18b29d2c">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:BusinessProcess>

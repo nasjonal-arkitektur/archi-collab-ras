@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pseudonymisering"
+    id="eb6181af-801f-4b3a-94ea-41b41c18830c"
+    documentation="Inkl. de-pseudomisering og mapping">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationService>

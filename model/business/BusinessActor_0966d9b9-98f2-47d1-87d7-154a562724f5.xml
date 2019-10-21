@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mennesker og organisasjonsenheter"
+    id="0966d9b9-98f2-47d1-87d7-154a562724f5">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:BusinessActor>

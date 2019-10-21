@@ -5,7 +5,7 @@
     documentation="Ability to define, conceptualize, create, and convey structured content and knowledge in a consumable format that is associated with an educational curriculum, course, workshop, or seminar, delivered to achieve a level of skill or competency.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linjeorganisasjon"
+    id="c29be68d-d713-46eb-a751-577f1ec7d99c">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:BusinessActor>

@@ -10,8 +10,7 @@
       key="dct:type"
       value="archi:association-relationship"/>
   <properties
-      key="label"
-      value="${name}"/>
+      key="label"/>
   <properties
       key="difi:language"
       value="en"/>

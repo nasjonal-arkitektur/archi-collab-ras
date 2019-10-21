@@ -1,0 +1,9 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loggdata"
+    id="5e4bab28-0932-49f7-bfd8-3bc3c7a69692"
+    documentation="Hvem eller hvilke systemer som har opprettet, endret, lest eller slettet hvilke data, samt hva som er kilden for importerte eller kopierte data.&#xA;NB: Ved manuell import, må det manuelt oppgis hvor data kommer fra, eventuelt bekreftes at autogenererte metadata for dette er korrekte">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Artifact>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Duplikateliminering"
+    id="28d5c56c-cd16-4108-845c-043718000fd8"
+    documentation="Duplikatdeteksjon, duplikateliminering, duplikatrydding">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:ApplicationService>

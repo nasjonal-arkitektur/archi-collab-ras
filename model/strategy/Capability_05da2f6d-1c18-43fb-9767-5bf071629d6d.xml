@@ -5,7 +5,7 @@
     documentation="Ability to establish, organize, analyze, administer, and report on all aspects of a legally binding contract between the organization and a legal entity or individual.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

@@ -5,7 +5,7 @@
     documentation="Ability to develop, communicate, and coordinate an articulated direction, related work items, and priorities to further business development, organizational priorities, and goals and objectives across organizational units and entities within or outside the organization.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

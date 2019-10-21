@@ -5,7 +5,7 @@
     documentation="Ability to plan, direct, monitor, organize, control, and report on a set of connected arcs and nodes that may be associated with infrastructure, assets, locations, routes, and other business objects.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>

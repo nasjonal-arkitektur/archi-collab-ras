@@ -1,0 +1,28 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Konfigurasjons-styring"
+    id="ac21afc6-0f68-4d85-9bf6-03296b0eb5cf"
+    documentation="inkl. logging">
+  <properties
+      key="difi:namespace"
+      value="Riksrevisjonen-IF"/>
+  <properties
+      key="difi:name_no"
+      value="Konfigurasjons-styring [ns:RR]"/>
+  <properties
+      key="difi:description_no"
+      value="inkl. logging"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+</archimate:Capability>

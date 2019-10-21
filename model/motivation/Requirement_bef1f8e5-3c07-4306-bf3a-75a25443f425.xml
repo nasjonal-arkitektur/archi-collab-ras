@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standarder"
+    id="bef1f8e5-3c07-4306-bf3a-75a25443f425">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Requirement>

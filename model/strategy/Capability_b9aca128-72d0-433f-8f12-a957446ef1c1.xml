@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjonsoppdagelse"
+    id="b9aca128-72d0-433f-8f12-a957446ef1c1">
+  <properties
+      key="difi:namespace"
+      value="rr"/>
+</archimate:Capability>

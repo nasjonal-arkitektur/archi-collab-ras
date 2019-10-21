@@ -5,7 +5,7 @@
     documentation="Ability to demarcate, grade, sustain, and generally administer physical space comprised of land, air, or water, in order to provide for the wellbeing of, and enable or restrict access to, that space as needed to meet economic, environmental, security, health, recreational, and other needs that arise.">
   <properties
       key="difi:namespace"
-      value="bizbok75"/>
+      value="bizbok"/>
   <properties
       key="difi:language"
       value="en"/>
@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
 </archimate:Capability>
